@@ -1,4 +1,4 @@
  User Interface:
 
- ![schoolwebpic-1.png](schoolwebpic-1.png)
- ![schoolwebpic-2.png](schoolwebpic-2.png)
+ ![img/schoolwebpic-1.png](img/schoolwebpic-1.png)
+ ![img/schoolwebpic-2.png](img/schoolwebpic-2.png)
